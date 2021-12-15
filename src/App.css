@@ -1,5 +1,10 @@
+body{
+  font-family: 'Bigelow Rules';
+}
+
 .App {
   text-align: center;
+
 }
 
 .App-logo {
